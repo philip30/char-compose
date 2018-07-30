@@ -2,7 +2,6 @@
 /bootstrap
 /config
 /calc-recall.sh
-/config.sh
 /config-python.sh
 /exec.sh
 /fmeasure.sh
